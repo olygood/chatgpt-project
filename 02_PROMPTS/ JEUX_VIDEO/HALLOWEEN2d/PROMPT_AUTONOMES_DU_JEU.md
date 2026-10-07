@@ -4,7 +4,7 @@
 > Choisis un seul prompt, copie tout le texte entre « Début du prompt » et « Fin du prompt », remplis les champs entre crochets et joins les références indiquées. Tu n’as plus de bloc 01 à ajouter. Chaque prompt fonctionne indépendamment des autres, y compris dans une nouvelle conversation.
 
 ## Quel prompt choisir:  
-
+---
 ## A La planche de référence
   - Montrer l’apparence globale du jeu. La scène, la palette et les objets servent de modèle visuel.
 
