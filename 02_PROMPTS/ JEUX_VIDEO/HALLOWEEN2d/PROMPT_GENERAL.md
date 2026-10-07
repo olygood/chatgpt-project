@@ -1,4 +1,3 @@
-# PROMPT_GENERAL  
 Prompt général — Jeu 2D Halloween
 Identité visuelle — À conserver pour toutes les images
 Créer un asset appartenant au même univers visuel d'un jeu de plateforme 2D Halloween fantasy.
