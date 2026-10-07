@@ -1,3 +1,35 @@
+# Prompt général — Jeu 2D Halloween
+
+## Identité visuelle — À conserver pour toutes les images
+
+Créer un asset appartenant au même univers visuel d'un jeu de plateforme 2D Halloween fantasy.
+
+L'ensemble du jeu doit donner l'impression d'avoir été illustré par le même artiste et appartenir exactement au même monde.
+
+## Style artistique
+
+Style Halloween fantasy cartoon haut de gamme.
+
+Illustration 2D peinte et stylisée, avec des formes organiques et légèrement exagérées.
+
+- Pas de pixel art.
+- Pas de photoréalisme.
+- Pas de rendu 3D réaliste.
+- Pas de style enfantin excessivement mignon.
+
+Le résultat doit rester mystérieux, fantastique, légèrement inquiétant, mais visuellement beau et coloré.
+
+Les formes peuvent être courbées, asymétriques et légèrement exagérées : arbres tortueux, bâtiments inclinés, rochers irréguliers, clôtures déformées, objets anciens.
+
+Éviter les formes géométriques trop parfaites.
+
+## Palette
+
+Palette nocturne dominée par :
+
+- Bleu nuit profond.
+- Bleu froid.
+- Violet sombre.
 - Violet légèrement saturé.
 - Touches de cyan froid.
 - Noir bleuté.
