@@ -5,7 +5,7 @@
 
 ## Quel prompt choisir:  
 
-### A La planche de référence
+### A] La planche de référence
   - Montrer l’apparence globale du jeu. La scène, la palette et les objets servent de modèle visuel.
 
 ### B Un objet ou un personnage
