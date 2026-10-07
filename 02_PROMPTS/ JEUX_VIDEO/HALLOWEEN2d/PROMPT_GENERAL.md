@@ -1,60 +1,59 @@
 # PROMPT_GENERAL  
-Prompt Général : jeu 2D Halloween
-IDENTITÉ VISUELLE — À CONSERVER POUR TOUTES LES IMAGES
-Créer un asset appartenant au même univers visuel d'un jeu de plateforme 2D Halloween fantasy.
-L'ensemble du jeu doit donner l'impression d'avoir été illustré par le même artiste et appartenir exactement au même monde.
-STYLE ARTISTIQUE
-Style Halloween fantasy cartoon haut de gamme.
-Illustration 2D peinte et stylisée, avec des formes organiques et légèrement exagérées.
-- Pas de pixel art.
-- Pas de photoréalisme.
-- Pas de rendu 3D réaliste.
-- Pas de style enfantin excessivement mignon.
-Le résultat doit rester mystérieux, fantastique, légèrement inquiétant, mais visuellement beau et coloré.
-Les formes peuvent être courbées, asymétriques et légèrement exagérées : arbres tortueux, bâtiments inclinés, rochers irréguliers, clôtures déformées, objets anciens.
-Éviter les formes géométriques trop parfaites.
-PALETTE
-Palette nocturne dominée par :
-- bleu nuit profond
-- bleu froid
-- violet sombre
-- violet légèrement saturé
-- touches de cyan froid
-- noir bleuté
-Utiliser ponctuellement des couleurs chaudes pour attirer le regard :
-- orange citrouille
-- jaune/orange des lanternes
-- lumière chaude provenant des fenêtres
-- petites sources lumineuses magiques
-Les couleurs chaudes doivent rester des accents et ne doivent jamais dominer l'image.
-ÉCLAIRAGE
-Scène principalement éclairée par une lumière nocturne froide provenant de la lune et du ciel.
-Ombres douces bleu/violet.
-Les objets doivent conserver suffisamment de contraste pour rester lisibles dans un jeu 2D.
-Les sources lumineuses locales peuvent créer des halos orange ou jaune doux.
+Prompt Général : jeu 2D Halloween  
+IDENTITÉ VISUELLE — À CONSERVER POUR TOUTES LES IMAGES  
+Créer un asset appartenant au même univers visuel d'un jeu de plateforme 2D Halloween fantasy.  
+L'ensemble du jeu doit donner l'impression d'avoir été illustré par le même artiste et appartenir exactement au même monde.  
+STYLE ARTISTIQUE  
+Style Halloween fantasy cartoon haut de gamme.  
+Illustration 2D peinte et stylisée, avec des formes organiques et légèrement exagérées.  
+- Pas de pixel art.  
+- Pas de photoréalisme.  
+- Pas de rendu 3D réaliste.  
+- Pas de style enfantin excessivement mignon.  
+Le résultat doit rester mystérieux, fantastique, légèrement inquiétant, mais visuellement beau et coloré.  
+Les formes peuvent être courbées, asymétriques et légèrement exagérées : arbres tortueux, bâtiments inclinés, rochers irréguliers, clôtures déformées, objets anciens.  
+Éviter les formes géométriques trop parfaites.  
+PALETTE  
+Palette nocturne dominée par :  
+- bleu nuit profond  
+- bleu froid  
+- violet sombre  
+- violet légèrement saturé  
+- touches de cyan froid  
+- noir bleuté  
+Utiliser ponctuellement des couleurs chaudes pour attirer le regard :  
+- orange citrouille  
+- jaune/orange des lanternes  
+- lumière chaude provenant des fenêtres  
+- petites sources lumineuses magiques  
+Les couleurs chaudes doivent rester des accents et ne doivent jamais dominer l'image.  
+ÉCLAIRAGE  
+Scène principalement éclairée par une lumière nocturne froide provenant de la lune et du ciel.  
+Ombres douces bleu/violet.  
+Les objets doivent conserver suffisamment de contraste pour rester lisibles dans un jeu 2D.  
+Les sources lumineuses locales peuvent créer des halos orange ou jaune doux.    
 L'éclairage doit renforcer l'atmosphère mystérieuse sans rendre les éléments illisibles.
-FORMES ET MATIÈRES
-Utiliser des silhouettes immédiatement reconnaissables.
-Contours organiques et irréguliers.
-- Bois ancien légèrement tordu.
-- Pierre usée et irrégulière.
-- Métal sombre et vieilli.
-- Végétation sauvage.
-- Branches courbées et inquiétantes.
-Les détails doivent être peints et stylisés plutôt que photographiques.
-Éviter les textures extrêmement fines qui disparaîtraient pendant le gameplay.
-PROFONDEUR
-Le jeu utilise plusieurs couches de parallaxe.
-Les éléments éloignés doivent être :
-- moins détaillés
-- moins contrastés
-- plus froids
-- plus brumeux
-Les éléments proches doivent être :
-- plus détaillés
-- plus contrastés
-- plus sombres
-- avec des silhouettes plus fortes
+FORMES ET MATIÈRES  
+Utiliser des silhouettes immédiatement reconnaissables.  
+Contours organiques et irréguliers.  
+- Bois ancien légèrement tordu.  
+- Pierre usée et irrégulière.  
+- Métal sombre et vieilli.  
+- Végétation sauvage.  
+- Branches courbées et inquiétantes.  
+Les détails doivent être peints et stylisés plutôt que photographiques.  
+Éviter les textures extrêmement fines qui disparaîtraient pendant le gameplay.  
+PROFONDEUR  
+Le jeu utilise plusieurs couches de parallaxe.  
+Les éléments éloignés doivent être :  
+- moins détaillés  
+- moins contrastés  
+- plus froids  
+- plus brumeux   
+- plus détaillés  
+- plus contrastés  
+- plus sombres  
+- avec des silhouettes plus fortes  
 Toujours respecter cette logique lorsqu'un asset appartient à une couche du décor.
 CAMÉRA ET PERSPECTIVE
 Jeu de plateforme 2D en vue latérale.
