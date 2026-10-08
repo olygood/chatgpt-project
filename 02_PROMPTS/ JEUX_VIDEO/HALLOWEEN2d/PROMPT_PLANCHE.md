@@ -9,8 +9,8 @@ Prompt Général
 - Pas de rendu 3D réaliste.
 - Pas de style enfantin excessivement mignon. 
 - Le résultat: doit rester mystérieux, fantastique, légèrement - inquiétant, mais visuellement beau et coloré. - Les formes peuvent être courbées, asymétriques et légèrement exagérées : arbres tortueux, bâtiments inclinés, rochers irréguliers, clôtures déformées, objets anciens. Éviter les formes géométriques trop parfaites.
-#### PALETTE Palette nocturne dominée par :
-- bleu nuit profond
+#### PALETTE Palette nocturne dominée par
+- bleu nuit profond :
 - bleu froid
 - violet sombre
 -violet légèrement saturé
