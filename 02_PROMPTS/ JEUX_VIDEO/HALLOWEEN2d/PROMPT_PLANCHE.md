@@ -1,5 +1,6 @@
 # PROMPT_PLANCHE  
-Prompt Général  
+Prompt Général
+==============
  — Jeu 2D Halloween IDENTITÉ VISUELLE 
 > À CONSERVER POUR TOUTES LES IMAGES Créer un asset appartenant au même univers visuel d'un jeu de plateforme 2D Halloween fantasy. L'ensemble du jeu doit donner l'impression d'avoir été illustré par le même artiste et appartenir exactement au même monde. STYLE ARTISTIQUE Style Halloween fantasy cartoon haut de gamme. Illustration 2D peinte et stylisée, avec des formes organiques et légèrement exagérées.
 
